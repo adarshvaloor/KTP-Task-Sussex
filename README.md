@@ -37,7 +37,7 @@ data/                      # it needs to be created by the user
 Requires Python 3.10+.
 
 ```bash
-git clone <https://github.com/adarshvaloor/KTP-Task-Sussex.git>
+git clone https://github.com/adarshvaloor/KTP-Task-Sussex.git
 cd <repo>
 python -m venv .venv && source .venv/bin/activate   # Windows: .venv\Scripts\activate
 pip install -r requirements.txt

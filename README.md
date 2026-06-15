@@ -15,8 +15,7 @@ stability dataset comparing two prototype formulations (Lot A014 and Lot B025).
   straightforward chemical degradation, and the mechanism is undetermined.
 - Formulation **A is weakly preferred on impurities only** (lower RRT 1.23,
   p < 0.001); the difference is small.
-- No Arrhenius / shelf-life extrapolation is attempted — the design and the
-  mass-balance gap do not support it.
+
 
 ## Repository contents
 

@@ -1,0 +1,9 @@
+
+data/
+*.xls
+*.xlsx
+
+# Python / Jupyter
+.venv/
+__pycache__/
+.ipynb_checkpoints/
